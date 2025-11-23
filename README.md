@@ -17,8 +17,9 @@ Project cards showing completed work
 Contact form UI
 Accessible layout with readable typography
 <img width="1470" height="956" alt="Screenshot 2025-11-23 at 2 05 43 PM" src="https://github.com/user-attachments/assets/3f92d670-4200-4a70-beb4-66ff5e2de0ee" />
-<img width="1470" height="956" alt="Screenshot 2025-11-23 at 2 05 48 PM" src="https://github.com/user-attachments/assets/10582fd0-32bd-4198-a9a2-88bef99a16cd" />
-Tools & Technologies Used
+<img width="1470" height="956" alt="Screenshot 2025-11-23 at 2 15 15 PM" src="https://github.com/user-attachments/assets/3d9c6305-5a12-42a1-8720-b891c12d380e" />
+
+Tools & Technologies Used:
 
 Visual Studio Code
 Git (Version Control)
