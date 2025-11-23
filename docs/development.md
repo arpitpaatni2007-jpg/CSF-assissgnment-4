@@ -2,18 +2,18 @@
 
 This document outlines the complete development process used to create the portfolio website.
 
-## Initial Setup
-Created a project folder inside VS Code.
-Added two main files: assignment4.html and assignment-4.css.
-Opened VS Code terminal and initialized Git:
-## HTML Structure
+# Initial Setup
+-Created a project folder inside VS Code.
+-Added two main files: assignment4.html and assignment-4.css.
+-Opened VS Code terminal and initialized Git:
+# HTML Structure
 Built the page using semantic HTML elements such as:
 <header>
 <nav>
 <main>
 <section>
 <footer>
-Added:
+Added
 Hero introduction text
 User profile image
 About Me section
@@ -21,7 +21,7 @@ Skills section with badges
 Project cards
 Contact form UI
 Footer with GitHub icon
-## CSS Styling
+# CSS Styling
 Designed an emerald–white theme using CSS variables.
 Styled navigation bar, hero image, section headings, project cards, and buttons.
 Created skill badges using flexbox.
